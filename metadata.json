@@ -1,0 +1,6 @@
+{
+  "name": "SCSCO College Digital Platform",
+  "description": "Production-grade Full-Stack College Management System featuring Smart QR Attendance, Digital Student ID, Academic CMS, and Multi-Role Portals for Students, Teachers, HODs, Principals, and Admins.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
